@@ -1,0 +1,19 @@
+union
+
+multiple type deni ho
+
+Aliases
+
+type & interface
+
+InterSection &
+
+when you wanna add some additional stuff ...
+
+tuples
+
+Array given from typerScript..Actually order me types set krte hein like is index me ye data type ayigi
+
+enums
+
+jaha hum apna restricted data save krte hein ..takay koi change na krein
